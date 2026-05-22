@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="./README.md">中文</a> | <a href="./README.en.md">English</a>
+</p>
+
 > [!IMPORTANT]
 > 维护状态：停止更新
 >
